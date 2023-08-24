@@ -1,7 +1,9 @@
 ### Hi there 👋
 
 I am an iOS developer 📱
+
 I was interested in iOS development and continued to learn.
+
 bullshit life !!! 💩 But find something to make yourself more fulfilling.
 
 <!--
