@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-bullshit life !!! 💩
+I am an iOS developer 📱
+I was interested in iOS development and continued to learn.
+bullshit life !!! 💩 But find something to make yourself more fulfilling.
 
 <!--
 **wfs777/wfs777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
